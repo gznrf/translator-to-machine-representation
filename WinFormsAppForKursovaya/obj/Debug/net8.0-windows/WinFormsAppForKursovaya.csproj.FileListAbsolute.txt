@@ -1,0 +1,48 @@
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.exe
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.deps.json
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.runtimeconfig.json
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.pdb
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.MainForm.resources
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.csproj.GenerateResource.cache
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.AssemblyInfoInputs.cache
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.AssemblyInfo.cs
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\refint\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.pdb
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.genruntimeconfig.cache
+C:\Users\musie\Desktop\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\ref\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.exe
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.deps.json
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.runtimeconfig.json
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.pdb
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.MainForm.resources
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.csproj.GenerateResource.cache
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.AssemblyInfoInputs.cache
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.AssemblyInfo.cs
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\refint\WinFormsAppForKursovaya.dll
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.pdb
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.genruntimeconfig.cache
+C:\Users\musie\Desktop\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\ref\WinFormsAppForKursovaya.dll
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.exe
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.deps.json
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.runtimeconfig.json
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.dll
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\bin\Debug\net8.0-windows\WinFormsAppForKursovaya.pdb
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.MainForm.resources
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.csproj.GenerateResource.cache
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.AssemblyInfoInputs.cache
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.AssemblyInfo.cs
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.dll
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\refint\WinFormsAppForKursovaya.dll
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.pdb
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\WinFormsAppForKursovaya.genruntimeconfig.cache
+C:\Users\tonya\Documents\дз по c#\работы для курсовой работы\WinFormsAppForKursovaya\WinFormsAppForKursovaya\obj\Debug\net8.0-windows\ref\WinFormsAppForKursovaya.dll
