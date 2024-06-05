@@ -1,32 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonya\\Desktop\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj": {}
+    "C:\\Users\\ZayarniyAA\\Desktop\\123\\translator-to-machine-representation\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonya\\Desktop\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj": {
+    "C:\\Users\\ZayarniyAA\\Desktop\\123\\translator-to-machine-representation\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonya\\Desktop\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj",
+        "projectUniqueName": "C:\\Users\\ZayarniyAA\\Desktop\\123\\translator-to-machine-representation\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj",
         "projectName": "WinFormsAppForKursovaya",
-        "projectPath": "C:\\Users\\tonya\\Desktop\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj",
-        "packagesPath": "C:\\Users\\tonya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonya\\Desktop\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya\\obj\\",
+        "projectPath": "C:\\Users\\ZayarniyAA\\Desktop\\123\\translator-to-machine-representation\\WinFormsAppForKursovaya\\WinFormsAppForKursovaya.csproj",
+        "packagesPath": "C:\\Users\\ZayarniyAA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZayarniyAA\\Desktop\\123\\translator-to-machine-representation\\WinFormsAppForKursovaya\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tonya\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ZayarniyAA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,20 +45,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
