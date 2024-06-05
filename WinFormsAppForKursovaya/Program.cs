@@ -1,4 +1,6 @@
+//Молодец! Так держать!
 namespace WinFormsAppForKursovaya
+
 {
     internal static class Program
     {
